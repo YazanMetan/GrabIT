@@ -1,0 +1,6 @@
+StartOnStartup=false
+Scale=1.5
+Folder=Files
+OpenWindowAtHeightToScreenRatio=0.01
+DeleteAfterDrag=false
+ShowFileExtension=false
